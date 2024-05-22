@@ -1,4 +1,7 @@
 # Getting Started with Create React App
+Host Url :- https://social-media-client-one-pearl.vercel.app/
+ScreenShort :-![Uploading Screenshot 2024-05-22 104324.png…]()
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
